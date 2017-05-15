@@ -1,0 +1,6 @@
+print('What is your mother name')
+motherName = input()
+print('Your mother name ' + motherName + ' is cool')
+print('Whats her age')
+motherAge = input()
+print('Your mother age will be ' + str(int(motherAge) + 2) + ' in 2018')
