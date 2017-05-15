@@ -1,0 +1,1 @@
+This folder contains all scripts executed in PyCharm IDE
