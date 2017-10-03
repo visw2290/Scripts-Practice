@@ -13,4 +13,4 @@ def Arm(n):
     else:
         return 'Number is not Armstrong'
 
-print(Arm(154))
+print(Arm(1542))
